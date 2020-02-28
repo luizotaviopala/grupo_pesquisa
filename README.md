@@ -31,6 +31,15 @@ Confira a data do próximo seminário:
 
 
 ### [Participantes](#)
+
+- 
+<p style="width: 500px;">
+<img src="image.png" style="float: right;" />
+Luiz Otávio de Oliveira Pala
+</p> 
+
+
+
 ### [Linhas de Pesquisa](#)
 
 - Estudos de volatilidade em cenários financeiros;
