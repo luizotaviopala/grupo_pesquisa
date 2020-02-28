@@ -89,6 +89,7 @@ Doutorando em Estatística e Experimentação Agropecuária pela Universidade Fe
 
 - [Banco Central do Brasil](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
 
+- [Yahoo Finance](https://finance.yahoo.com/). 
 
 
 ### [Contato](#)
