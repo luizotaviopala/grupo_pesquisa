@@ -1,6 +1,6 @@
 
 <center> 
-<big> <big><B><font color="#0099ff">
+<big> <big><B><font color="#00bfff">
  Núcleo de Estudos em Séries Temporais
  </font></B></big></big>
 </center>
@@ -12,7 +12,7 @@
 * * *
 
 <p align="justify">
- Essa é uma página do Núcleo de Estudos em Séries Temporais que atua no Departamento de Estatística (DES) da Universidade Federal de Lavras (UFLA). No grupo são abordados temas como modelos de séries temporais, wavelets, modelos de regressão e suas aplicações. Aqui serão divulgados os seminários, artigos e eventos do grupo.
+ Essa é uma página do Núcleo de Estudos em Séries Temporais que atua no Departamento de Estatística (DES) da Universidade Federal de Lavras (UFLA). No grupo são abordados temas como modelos de séries temporais, wavelets, modelos de regressão e aplicações. Aqui serão divulgados os seminários, artigos e eventos do grupo.
 </p> 
 
 - Visite o site do Departamento e da Universidade em: [DES](http://www.des.ufla.br/), [UFLA](https://ufla.br/).
