@@ -34,7 +34,7 @@ Confira a data do próximo seminário:
 
 - 
 <p style="width: 500px;">
-<img src="image.png" style="float: right;" />
+<img src="foto.jpeg" style="float: right;" />
 Luiz Otávio de Oliveira Pala
 </p> 
 
