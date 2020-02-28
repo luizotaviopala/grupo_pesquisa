@@ -7,7 +7,7 @@
 - Visite o site do Departamento e da Universidade em: [DES](http://www.des.ufla.br/), [UFLA](https://ufla.br/).
 
 
-## [Seminários](#)
+### [Seminários](#)
 
 Confira a data do próximo seminário:
 
