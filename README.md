@@ -1,5 +1,5 @@
  
-<center>  #[Núcleo de Estudos em Séries Temporais](#)</center>
+<center>  Núcleo de Estudos em Séries Temporais </center>
 
 
 
