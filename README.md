@@ -1,4 +1,4 @@
-## \textcolor{blue}{Grupo de pesquisa em Séries temporais e Econometria}
+## [Blue](#){Grupo de pesquisa em Séries temporais e Econometria}
 
 
 
