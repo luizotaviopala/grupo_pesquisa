@@ -28,7 +28,7 @@ Confira a data do próximo seminário:
 - [24º SINAPE](https://www.sinape2020.com.br/?fbclid=IwAR3s3FCQcK2S0jcWDAoMHcsDTVzcxeGu354_VcVyaWNrxEesq5vOEgBVR3c). 
 <p align="justify"> O Simpósio Nacional de Probabilidade e Estatística é a principal reunião científica da comunidade estatística brasileira, sendo organizado pela Associação Brasileira de Estatística (ABE). É um fórum único para a difusão no Brasil dos avanços da estatística mundial, tanto em termos teóricos e metodológicos, quanto em termos de sua interação e aplicação nas diversas áreas do conhecimento. Há uma sólida participação de pesquisadores nacionais, internacionais, alunos e profissionais do mercado. Data: 2 a 7 de agosto de 2020, Local Hotel Serra Azul, Gramado (RS), Brasil.</p>
 
-### [Discentes](#)
+### [Docentes](#)
 
 - Thelma Sáfadi - DES/UFLA
  <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4783135D1&tokenCaptchar=03AERD8Xo-9IqquNmgAm7DD6bBWeU22TJzL_48UhpdptYz0T4Klo4rjhCGpYpTyFgAcjZ-QP22Uv0no7HEd_a0kIfPcQqGVXrJSEBpi5klZqKpTsbxl0sZ2y1gj06Ybp6M903CxcFcZ9F3FkfTLnHjxIuhuolPB1_MC9IbB1VkSzSHJnGSxSjQk8sc3LjrSPLL-UHwlTPb93En_b5HRmhRLi3S4CuyrvWdRH6G7ZDtu_ZjveccskHVvyMF0HFTihmnJPFrFYJhU4AEwIcCKGgdnjLjzmf2bTD6DB4GyJiKT0AdlTT8HF5nEs631dsbo39kDAIYGHDkZbHsQpK6fycVsArQ0pi1Ll9xFPNEEdnIhcCmtEZn8K2qBdwqmZT8nMl8hwuCzHDol4goQMAOCzgYQN23TbfKANODyQ"> (Lattes)</a>
@@ -41,7 +41,7 @@ Confira a data do próximo seminário:
 
 
 
-### [Participantes](#)
+### [Discentes](#)
 
 - Ana Claudia Festucci de Herval <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4208981D5&tokenCaptchar=03AERD8XoAMCyNn-028NFvaZb2mcOm11R7zGKXq_Po20aLelXUkR3cgAtKSvNuNR7ugYAJvH8IeYNMo66YngE1DsQpQ4PBCKqMwoly2rDNxsYzPopgOMUiCvxZeRB5C0xuTTiOp9o_ISHdt0sEruc2I2TkEBgLfpsNNZryKc17fyg2kLpVANVTA7xK8NhQS7nBBDrIK2mYbAHUlNfiBlsbWYOaCiy0CMvIMPGTBuMX6muG6le39BgbJLdzEDf7uqW0t4E_di--eW1IwbUdmuoaJR3xl1JZbwaWkTPCKYPokCwx72zMWOHwVsDr3IRnfZ9Sv_lwSaDqf3pOCDsQddxKACxKXdOkv9rbeRBjB5EKBqYl0m-lKgInkYlfPF5-qF0sigBhoQUqnKP-u0oY4bG4KYaauiL79oImYA"> (Lattes)</a>
 
