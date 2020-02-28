@@ -1,4 +1,4 @@
-# [Núcleo de Estudos em Séries Temporais](#)
+# [**Núcleo de Estudos em Séries Temporais**](#)
 
 <p align="justify">
  Essa é uma página do Núcleo de Estudos em Séries Temporais que atua no Departamento de Estatística (DES) da Universidade Federal de Lavras (UFLA). No grupo são abordados temas como modelos de séries temporais, wavelets, modelos de regressão e suas aplicações. Aqui serão divulgados os seminários, artigos e eventos do grupo.
