@@ -3,3 +3,4 @@ description: Departamento de Estatística - UFLA.
 theme: jekyll-theme-leap-day
 text-align: justify
 <div style="text-align: justify">
+github: is_project_page: false
