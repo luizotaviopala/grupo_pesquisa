@@ -1,4 +1,4 @@
-## [Blue](#){Grupo de pesquisa em Séries temporais e Econometria}
+## [Grupo de pesquisa em Séries temporais e Econometria](#)
 
 
 
