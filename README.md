@@ -28,7 +28,7 @@ Confira a data do próximo seminário:
 - [24º SINAPE](https://www.sinape2020.com.br/?fbclid=IwAR3s3FCQcK2S0jcWDAoMHcsDTVzcxeGu354_VcVyaWNrxEesq5vOEgBVR3c). 
 <p align="justify"> O Simpósio Nacional de Probabilidade e Estatística é a principal reunião científica da comunidade estatística brasileira, sendo organizado pela Associação Brasileira de Estatística (ABE). É um fórum único para a difusão no Brasil dos avanços da estatística mundial, tanto em termos teóricos e metodológicos, quanto em termos de sua interação e aplicação nas diversas áreas do conhecimento. Há uma sólida participação de pesquisadores nacionais, internacionais, alunos e profissionais do mercado. Data: 2 a 7 de agosto de 2020, Local Hotel Serra Azul, Gramado (RS), Brasil.</p>
 
-### [Docentes](#)
+### [Discentes](#)
 
 - Thelma Sáfadi - DES/UFLA
  <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4783135D1&tokenCaptchar=03AERD8Xo-9IqquNmgAm7DD6bBWeU22TJzL_48UhpdptYz0T4Klo4rjhCGpYpTyFgAcjZ-QP22Uv0no7HEd_a0kIfPcQqGVXrJSEBpi5klZqKpTsbxl0sZ2y1gj06Ybp6M903CxcFcZ9F3FkfTLnHjxIuhuolPB1_MC9IbB1VkSzSHJnGSxSjQk8sc3LjrSPLL-UHwlTPb93En_b5HRmhRLi3S4CuyrvWdRH6G7ZDtu_ZjveccskHVvyMF0HFTihmnJPFrFYJhU4AEwIcCKGgdnjLjzmf2bTD6DB4GyJiKT0AdlTT8HF5nEs631dsbo39kDAIYGHDkZbHsQpK6fycVsArQ0pi1Ll9xFPNEEdnIhcCmtEZn8K2qBdwqmZT8nMl8hwuCzHDol4goQMAOCzgYQN23TbfKANODyQ"> (Lattes)</a>
