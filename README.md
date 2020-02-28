@@ -4,8 +4,13 @@
 
 
 ### Seminários
+Datas dos próximos seminários.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Eventos
+### Participantes
+### Linhas de Pesquisa
+### Artigos e Trabalhos
+
 
 ```markdown
 Syntax highlighted code block
