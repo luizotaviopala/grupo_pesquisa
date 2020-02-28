@@ -1,4 +1,4 @@
-# [Núcleo de Estudos em Séries Temporais] (#) 
+# [Núcleo de Estudos em Séries Temporais](#) 
 
 
 * * *
