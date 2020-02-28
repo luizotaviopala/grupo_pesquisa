@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Grupo de pesquisa em Séries temporais e Econometria
 
 You can use the [editor on GitHub](https://github.com/luizotaviopala/grupo_pesquisa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
