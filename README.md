@@ -32,6 +32,13 @@ Confira a data do próximo seminário:
 
 ### [Participantes](#)
 ### [Linhas de Pesquisa](#)
+
+- Estudos de volatilidade em cenários financeiros;
+- Redes Neurais;
+- Wavelets;
+- Testes de hipóteses em séries temporais.
+
+
 ### [Artigos e Trabalhos](#)
 ### [Códigos e implementações](#)
 ### [Contato](#)
