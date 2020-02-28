@@ -1,6 +1,6 @@
 ## [Núcleo de Estudos em Séries Temporais](#)
 
-Essa é uma página do Núcleo de Estudos em Séries Temporais que atua no Departamento de Estatística ([DES](http://www.des.ufla.br/)) da Universidade Federal de Lavras (UFLA). 
+Essa é uma página do Núcleo de Estudos em Séries Temporais que atua no Departamento de Estatística ([DES](http://www.des.ufla.br/)) da Universidade Federal de Lavras ([UFLA](https://ufla.br/)). 
 
 
 ### Seminários
