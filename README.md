@@ -32,7 +32,8 @@ Confira a data do próximo seminário:
 
 ### [Participantes](#)
 
-- Ana Claudia Festucci de Herval
+- Ana Claudia Festucci de Herval <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4208981D5&tokenCaptchar=03AERD8XoAMCyNn-028NFvaZb2mcOm11R7zGKXq_Po20aLelXUkR3cgAtKSvNuNR7ugYAJvH8IeYNMo66YngE1DsQpQ4PBCKqMwoly2rDNxsYzPopgOMUiCvxZeRB5C0xuTTiOp9o_ISHdt0sEruc2I2TkEBgLfpsNNZryKc17fyg2kLpVANVTA7xK8NhQS7nBBDrIK2mYbAHUlNfiBlsbWYOaCiy0CMvIMPGTBuMX6muG6le39BgbJLdzEDf7uqW0t4E_di--eW1IwbUdmuoaJR3xl1JZbwaWkTPCKYPokCwx72zMWOHwVsDr3IRnfZ9Sv_lwSaDqf3pOCDsQddxKACxKXdOkv9rbeRBjB5EKBqYl0m-lKgInkYlfPF5-qF0sigBhoQUqnKP-u0oY4bG4KYaauiL79oImYA">Lattes</a>
+
 
 <p align="justify">
 Possui graduação em Matemática pelo Instituto de Biociências, Letras e Ciências Exatas (IBILCE) - UNESP (2008) e mestrado em Estatística pela Universidade Federal de São Carlos (2010). Experiências profissionais na área administrativa com Informações Gerenciais em Plano de Saúde e na área da educação, em instituições superiores públicas privadas em disciplinas como Matemática Discreta, Cálculo, Geometria Analítica e Estatística. Atualmente, cursando Doutorado em Estatística e Experimentação Agropecuária na Universidade Federal de Lavras (UFLA).
