@@ -8,6 +8,7 @@ Essa é uma página do Núcleo de Estudos em Séries Temporais que atua no Depar
 Datas dos próximos seminários.
 
 - Dia:
+- Sala:
 
 ### [Eventos](#)
 ### [Participantes](#)
