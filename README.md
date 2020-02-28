@@ -1,4 +1,4 @@
-# [Núcleo de Estudos em Séries Temporais](#)
+# <p align="center">[Núcleo de Estudos em Séries Temporais](#)</p> 
 
 * * *
 
