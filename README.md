@@ -1,9 +1,9 @@
-## [Grupo de pesquisa em Séries temporais e Econometria](#)
+## [Núcleo de Estudos em Séries Temporais](#)
 
 
 
 
-### Markdown
+### Seminários
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
