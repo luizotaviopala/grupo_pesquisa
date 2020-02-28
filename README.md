@@ -33,8 +33,8 @@ Confira a data do próximo seminário:
 ### [Participantes](#)
 
 - 
-<p style="width: 500px;">
-<img src="foto.jpeg" style="float: right;" />
+<p style="width: 1px;">
+<img src="https://user-images.githubusercontent.com/55280548/75585361-adeb8b80-5a50-11ea-9e2f-d82578349a60.jpeg" style="float: right;" />
 Luiz Otávio de Oliveira Pala
 </p> 
 
