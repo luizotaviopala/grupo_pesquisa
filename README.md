@@ -32,11 +32,30 @@ Confira a data do próximo seminário:
 
 ### [Participantes](#)
 
+- Ana Claudia Festucci de Herval
+
+<p align="justify">
+Possui graduação em Matemática pelo Instituto de Biociências, Letras e Ciências Exatas (IBILCE) - UNESP (2008) e mestrado em Estatística pela Universidade Federal de São Carlos (2010). Experiências profissionais na área administrativa com Informações Gerenciais em Plano de Saúde e na área da educação, em instituições superiores públicas privadas em disciplinas como Matemática Discreta, Cálculo, Geometria Analítica e Estatística. Atualmente, cursando Doutorado em Estatística e Experimentação Agropecuária na Universidade Federal de Lavras (UFLA).
+</p> 
+
+- Denise de Assis Paiva
+
+<p align="justify">
+Graduação em Licenciatura em Matemática (2017) pela Universidade Federal de São João del-Rei (UFSJ). Mestrado em Estatística e Experimentação Agropecuária (2020) pela Universidade Federal de Lavras (UFLA). Atualmente é aluna de doutorado do Programa de Pós-Graduação em Estatística e Experimentação Agropecuária da Universidade Federal de Lavras (UFLA).
+</p> 
+
+
+- Marcela de Marillac Carvalho
+
+<p align="justify">
+Possui graduação em Ciências Econômicas pela Universidade Federal de Alfenas e mestrado em Estatística e Experimentação Agropecuária pela Universidade Federal de Lavras. Atualmente é doutoranda em Estatística e Experimentação Agropecuária na Universidade Federal de Lavras.Tem experiência acadêmica na área de Estatística e Economia e atualmente pesquisa na área de Séries Temporais e Finanças. Se dedica aos estudos relacionados à Econometria Financeira.
+</p> 
+
+
 - Luiz Otávio de Oliveira Pala
 
-<p>
-<img src="https://user-images.githubusercontent.com/55280548/75586027-3585ca00-5a52-11ea-8ff9-cd2f7da7570b.png" style="float: right;"height="10";width="10" />
-Luiz Otávio de Oliveira Pala
+<p align="justify">
+Doutorando em Estatística e Experimentação Agropecuária pela Universidade Federal de Lavras (UFLA). Mestre em Estatística Aplicada e Biometria pela Universidade Federal de Alfenas. Bacharel em Ciências Atuariais pela Universidade Federal de Alfenas, campus Varginha. Bacharel Interdisciplinar em Ciência e Economia, pela mesma universidade. Tem interesse em Análise de Regressão, Séries Temporais e Precificação de Seguros.
 </p> 
 
 
