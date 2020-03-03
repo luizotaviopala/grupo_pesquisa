@@ -1,6 +1,6 @@
 
 <center> 
-<big> <big><B><font color="#4d79ff">
+<big> <big><B><font color="#668cff">
  Núcleo de Estudos em Séries Temporais
  </font></B></big></big>
 </center>
