@@ -20,7 +20,7 @@
 
 Confira a data do próximo seminário:
 
-- Tema:
+- Título:
 - Dia:
 - Sala: 
 
