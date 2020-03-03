@@ -2,5 +2,5 @@
 title: Grupo de Pesquisa 
 description: Departamento de Estatística - UFLA.
 theme: jekyll-theme-architect
-
+gem "github-pages", group: :jekyll_plugins
 
