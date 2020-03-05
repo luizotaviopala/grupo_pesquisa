@@ -17,17 +17,12 @@
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
-        <!--  <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-       <h2>{{ site.description | default: site.github.project_tagline }}</h2>-->
-        
-        
-       <img src="https://user-images.githubusercontent.com/55280548/75835810-ae608b00-5d9e-11ea-98aa-c3042ab5472b.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        
-          
+       <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+   
         {% if site.github.is_project_page %}
-   <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+        <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
         {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
