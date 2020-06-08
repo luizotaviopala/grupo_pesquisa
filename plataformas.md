@@ -1,7 +1,7 @@
 ### [Plataformas para download](#)
 
 
-- [IPEADATA](https://www.sinape2020.com.br/?fbclid=IwAR3s3FCQcK2S0jcWDAoMHcsDTVzcxeGu354_VcVyaWNrxEesq5vOEgBVR3c). 
+- [IPEADATA](http://www.ipeadata.gov.br/Default.aspx). 
 
 - [Banco Central do Brasil](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
 
