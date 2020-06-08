@@ -1,8 +1,10 @@
 ### [Docentes](#)
 
 - Alex de Oliveira Ribeiro - DES/UFLA. <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4594155Y2&tokenCaptchar=03AERD8XrAcEaBMFLhM2IeV1WQEotyPb6tdvfBDPcgYye8wbSpbyBk065ha-CC1Z9kuk4PA2MvOsHfUfPqZotzHytV_T9qVv5Hj6LabWl1FotZc4hjz8T6buNv_6nsDECHROuAMANLrR_IF7pLg0CjibJcY1gwHH63nhPvYgxwxFgrzYh_pma03uzBQkdtQ0WAjqubRT1uvDJf0WwS4peU-ufUKtMSaksIC28ubwHA8DcbZ1NcDsSAMiq_9V8IkjngKb0hwy58P8QFfZQ79wkivqom2f5tqXqm2rWcZ0m02v9MlkMuTOp2jO7hQGQSFey87FLVAhMAKomhktts8Ho-pyKKvtCC7ksk-ncG3d94hINHFgIMCDPpVRxr46LyI9scNixBfq-RIZc1a1YiThYWGeDOkzCy1Fkzyg"> (Lattes)</a>
+<p align="justify">
 Licenciado em Matemática pelo Centro Universitário de Lavras (1999), mestrado em Estatística e Experimentação Agropecuária pela Universidade Federal de Lavras (2000) e doutorado, também em Estatística e Experimentação Agropecuária pela Universidade Federal de Lavras (2018). Atualmente é professor adjunto no departamento de estatística da Universidade Federal de Lavras (DES/UFLA). Tem experiência em Probabilidade e Estatística, com ênfase em Análise de Dados, atuando principalmente nos seguintes temas: simulação, análise multivariada, genética quantitativa e amostragem. 
- 
+ </p> 
+
  
  - Ednilson Sebastião de Ávila - DAE/UFLA
  <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4470457Z3&tokenCaptchar=03AERD8XpDyAPmS2Wo1kIZSz-U7vQW9CsFiBTd8TAfXwt30hBMsIKBaaXpw3fnXhFllfMjpFChTYC2_2H-Pt4-VEkl4vyTFmggDHb-EEnsxviUTZrdVCewLfW-0fmRQu0Oav7u0xDJkegaoGXVG-bx7hPaxXLqksEkhdvM0i7Uwo_hunOCuJFA40OXAOSr780Hh0DQ6Angy-b0XT3cYAAbuGcWoACaqi6-EKvID__0g-FAeee6buTZKsJ6eIJMlK42kYQ6l--EfvaXKw6CODCHzaYcnIh7RkFbHlZrCpH_fAvkAM32_BsxUHeHYRuem8tkoGM4E9PeqM6u_NdQLsDFKPTLKcjHdVK4P_VqXBa5NcH7tgBhiyINsfVeXwz6-CoWpfilGZYV_pNwoOCrO1IoMsw6ev_rm-X0dQ"> (Lattes)</a>
