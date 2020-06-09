@@ -1,5 +1,6 @@
 ### [Plataformas para download](#)
 
+- [INMET - Instituto Nacional de Meteorologia](http://www.inmet.gov.br/portal/index.php?r=home2/index). 
 
 - [IPEADATA](http://www.ipeadata.gov.br/Default.aspx). 
 
